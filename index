@@ -1,0 +1,124 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Home Six || Tokio</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="stylemain.css">
+    </head>  
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->  
+
+        <!--Main Wrapper Start-->
+        <div class="wrapper">       
+            <!-- Start Slider Area -->
+            <div class="container-fluid pl-0 pr-0 fix">
+                <div class="portfolio-home6">
+                    <div class="probox-st-6">
+                        <div class="social-links top-style">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-rss"></i></a>
+                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                            <a href="#"><i class="fa fa-instagram"></i></a>
+                        </div>
+                        <h2><a data-fancybox="images" href="images/portfolio/1.jpg">Industry</a>
+                        </h2>
+                        <h5>Invent</h5>
+                    </div>
+                    <div class="probox-st-6">
+                        <h2><a data-fancybox="images" href="images/portfolio/1.jpg">Design</a>
+                        </h2>
+                        <h5>Ideal</h5>
+                    </div>
+                    <div class="probox-st-6">
+                        <div class="logo">
+                            <a href="index.html" class="logo-black">
+                                <img src="images/logo/logo.png" alt="Tokio">
+                            </a>
+                            <a href="index.html" class="logo-white">
+                                <img src="images/logo/logo2.png" alt="Tokio">
+                            </a>
+                        </div>
+                        <h2><a data-fancybox="images" href="images/portfolio/2.jpg">Branding</a></h2>
+                        <h5>Exigent</h5>
+                    </div>
+                    <div class="probox-st-6">
+                        <h2><a data-fancybox="images" href="images/portfolio/3.jpg">Impress</a></h2>
+                        <h5>Clear</h5>
+                    </div>
+                    <div class="probox-st-6">
+                         <button class="clickable-mainmenu-active">
+                                <span class="icon ion-md-menu"></span>
+                        </button>
+                        <h2><a data-fancybox="images" href="images/portfolio/4.jpg">Web</a></h2>
+                        <h5>Worldwide</h5>
+                    </div>
+                </div>
+            </div> 
+            <!-- End Slider Area -->    
+
+            <!-- Clickable menu  Start-->
+            <div class="clickable-mainmenu text-center">
+                <div class="clickable-mainmenu-icon">
+                    <button class="clickable-mainmenu-close">
+                        <span class="icon ion-md-close"></span>
+                    </button>
+                </div>
+                <div id="menu" class="text-left">
+                    <ul>
+                        <li><a href="index.html">Home</a>
+                            <ul>
+                                <li><a href="index.html">Main Home</a></li>
+                                <li><a href="index-2.html">Fixed Text</a></li>
+                                <li><a href="index-3.html">Split Slider</a></li>
+                                <li><a href="index-4.html">Multiscroll Slider</a></li>
+                                <li><a href="index-5.html">Masonry Home</a></li>
+                                <li><a href="index-6.html">Vertical Hover</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="portfolio.html">Portfolio</a>
+                            <ul>
+                                <li><a href="pro-col2-hs1.html">Portfolio Two Column</a>
+                                </li>
+                                <li><a href="pro-col3-hs3.html">Portfolio Three Column</a></li>
+                                <li><a href="pro-col4-hs2.html">Portfolio Four Column</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="about.html">About</a>
+                            <ul>
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="about-me.html">About Me</a></li>
+                            </ul>
+
+                        </li>
+                        <li><a href="#">Pages</a>
+                            <ul>
+                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="about-me.html">About Me</a></li>
+                                <li><a href="pro-col3-fw-video.html">Video Portfolio</a></li>
+                                <li><a href="portfolio-details.html">Porftfolio Details</a></li>
+                                <li><a href="contact.html">Contact Us</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="blog.html">Blog</a>
+                            <ul>
+                                <li><a href="blog.html">Blog Page</a></li>
+                                <li><a href="blog-details.html">Blog Details</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Clickable menu End-->
+        </div>    
+        <!--End of Main Wrapper Area--> 
+        
+        
+        
+    </body>
+</html>
